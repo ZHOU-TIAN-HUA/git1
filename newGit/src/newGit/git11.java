@@ -1,6 +1,7 @@
 package newGit;
 
 public interface git11 {
-	void bbb();
+	void aaa();
+	void ccc();
 
 }
